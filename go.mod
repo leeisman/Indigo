@@ -1,4 +1,4 @@
-module github.com/leeisman/go_pubsub
+module github.com/leeisman/indigo
 
 go 1.14
 
