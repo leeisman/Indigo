@@ -3,8 +3,8 @@ package mq
 import (
 	"cloud.google.com/go/pubsub"
 	"context"
-	"github.com/leeisman/Indigo/inside/pub"
-	"github.com/leeisman/Indigo/inside/sub"
+	"github.com/leeisman/indigo/inside/pub"
+	"github.com/leeisman/indigo/inside/sub"
 	"log"
 )
 

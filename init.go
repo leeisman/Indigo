@@ -2,8 +2,8 @@ package mq
 
 import (
 	"context"
-	"github.com/leeisman/Indigo/inside/pub"
-	"github.com/leeisman/Indigo/inside/sub"
+	"github.com/leeisman/indigo/inside/pub"
+	"github.com/leeisman/indigo/inside/sub"
 )
 
 var (
